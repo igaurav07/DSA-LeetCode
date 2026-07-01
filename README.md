@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0344-reverse-string](https://github.com/igaurav07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/igaurav07/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/igaurav07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igaurav07/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Breadth-First Search
 |  |
