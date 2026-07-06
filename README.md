@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/igaurav07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0485-max-consecutive-ones](https://github.com/igaurav07/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/igaurav07/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/igaurav07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/igaurav07/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/igaurav07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/igaurav07/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Depth-First Search
 |  |
