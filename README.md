@@ -89,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/igaurav07/DSA-LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/igaurav07/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/igaurav07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igaurav07/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
 |  |
