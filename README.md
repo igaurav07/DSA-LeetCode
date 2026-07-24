@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/igaurav07/DSA-LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/igaurav07/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/igaurav07/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/igaurav07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/igaurav07/DSA-LeetCode/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/igaurav07/DSA-LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -135,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/igaurav07/DSA-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
