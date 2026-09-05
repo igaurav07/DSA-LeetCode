@@ -1,30 +1,27 @@
 class Solution {
 public:
     int minimumDistance(vector<int>& nums) {
-        unordered_map<int, vector<int>> mp;
-
-        // Store indices for each number
-        for (int i = 0; i < nums.size(); i++) {
-            mp[nums[i]].push_back(i);
-        }
-
+        unordered_map<int, pair<int, int>> mp;
         int ans = INT_MAX;
 
-        // For every number
-        for (auto& [value, indices] : mp) {
+        for (int i = 0; i < nums.size(); i++) {
+            int x = nums[i];
 
-            // Need at least 3 occurrences
-            if (indices.size() < 3)
-                continue;
+            if (mp.find(x) == mp.end()) {
+                // first occurrence
+                mp[x] = {-1, i};
+            } 
+            else {
+                int secondLast = mp[x].first;
+                int last = mp[x].second;
 
-            // Check every consecutive group of 3
-            for (int i = 0; i + 2 < indices.size(); i++) {
-                int first = indices[i];
-                int third = indices[i + 2];
+                // This is the 3rd or later occurrence
+                if (secondLast != -1) {
+                    ans = min(ans, 2 * (i - secondLast));
+                }
 
-                int distance = 2 * (third - first);
-
-                ans = min(ans, distance);
+                // Shift positions
+                mp[x] = {last, i};
             }
         }
 
