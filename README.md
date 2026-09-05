@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3904-smallest-stable-index-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
 | ------- |
