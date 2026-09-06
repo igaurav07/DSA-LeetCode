@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/igaurav07/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/igaurav07/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/igaurav07/DSA-LeetCode/tree/master/0344-reverse-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/igaurav07/DSA-LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/igaurav07/DSA-LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
