@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/igaurav07/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/igaurav07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/igaurav07/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igaurav07/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/igaurav07/DSA-LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/igaurav07/DSA-LeetCode/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/igaurav07/DSA-LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/igaurav07/DSA-LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
