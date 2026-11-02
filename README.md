@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/igaurav07/DSA-LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/igaurav07/DSA-LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/igaurav07/DSA-LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/igaurav07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/igaurav07/DSA-LeetCode/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/igaurav07/DSA-LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/igaurav07/DSA-LeetCode/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/igaurav07/DSA-LeetCode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/igaurav07/DSA-LeetCode/tree/master/0509-fibonacci-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/igaurav07/DSA-LeetCode/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Binary Search
